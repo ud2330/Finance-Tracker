@@ -21,7 +21,7 @@ A simple and effective web application to manage personal finances. Track expens
 
 - Clone the repo  
    ```bash
-   git clone https://github.com/laradharshini/Finance-Tracker.git
+   git clone https://github.com/ud2330/Finance-Tracker.git
 
 - Set up the MySQL database
 
